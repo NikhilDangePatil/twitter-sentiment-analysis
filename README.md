@@ -1,5 +1,9 @@
 # twitter-sentiment-analysis
 Twitter Sentiment Analysis using NLP &amp; Machine Learning
+## 🔗 Live Demo
+Streamlit App:  
+https://twitter-sentiment-analysis-tfundtrjyueokz9yudjcmd.streamlit.app/
+
 # Twitter Sentiment Analysis using NLP & Machine Learning
 
 This project performs **sentiment analysis on Twitter tweets** using **Natural Language Processing (NLP)** and **Machine Learning**.  
